@@ -16,7 +16,7 @@ This is a chinese 32-bit RISC-V core @48 MHz microcontroller. Some functionality
 - Security features: 96-bit unique ID
 - Debug mode: 1-wire serial debug interface (SDI)
 
-The test board use the model CH32V003F4P6 version:
+The test board (TENSTAR CH32V003) use the model CH32V003F4P6 version:
 
 Flash Memory | SRAM | Pins | IO | ADC | SPI | I2C | USART | Form Factor |
 |-----------------------|-----------|---------|------|--------|--------|-------|-------------|----------------------|
@@ -24,3 +24,4 @@ Flash Memory | SRAM | Pins | IO | ADC | SPI | I2C | USART | Form Factor |
 
 ![CH32V003F4P6](https://raw.githubusercontent.com/korndorfer/device-ch32/4e53f34c12132dc3d56cb2c0c5fdf49440cd95f9/images/CH32V003F4P6.png)
 
+![CH32V003F4P6](https://raw.githubusercontent.com/korndorfer/device-ch32/4e53f34c12132dc3d56cb2c0c5fdf49440cd95f9/images/block-diagram.jpg)
