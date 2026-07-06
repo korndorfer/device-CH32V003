@@ -22,5 +22,5 @@ Flash Memory | SRAM | Pins | IO | ADC | SPI | I2C | USART | Form Factor |
 |-----------------------|-----------|---------|------|--------|--------|-------|-------------|----------------------|
  16K | 2K | 20 | 18 | 8 | 1 | 1 | 1 | TSSOP20 |
 
-![Alt text](https://placehold.co/600x400.png)
+![CH32V003F4P6](https://github.com/korndorfer/device-ch32/tree/60fab532da68e7c66aa3b081e270c132e318a627/images/CH32V003F4P6.png)
 
