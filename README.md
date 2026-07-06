@@ -1,7 +1,7 @@
-# device-ch32
+# CH32V003 Microcontroller
 Notes about the CH32V003 device.
 
-This is a chinese 32-bit RISC-V core @48 MHz microcontroller. Some functionality is common for all versions of this chip, like:
+This is a chinese 32-bit RISC-V core @48 MHz microcontroller ([Oficial datasheet](doc/CH32V003DS0.PDF)). Some functionality is common for all versions of this chip, like:
 
 - Support system main frequency 48MHz
 - System power supply VDD: 3.3V or 5V
