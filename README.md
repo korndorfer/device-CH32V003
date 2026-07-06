@@ -27,3 +27,5 @@ Flash Memory | SRAM | Pins | IO | ADC | SPI | I2C | USART | Form Factor |
 Board view:
 ![CH32V003F4P6 board](images/CH32V003F4P6.png)
 
+Some usefull links:
+- [ch32fun toolchain](https://github.com/cnlohr/ch32fun)
