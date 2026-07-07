@@ -30,5 +30,5 @@ Board view:
 
 Some usefull links:
 - [Official site](https://www.wch-ic.com/products/CH32V003.html)
-- [ch32fun toolchain](https://github.com/cnlohr/ch32fun)
 - [Official repository](https://github.com/openwch/ch32v003)
+- [ch32fun toolchain](https://github.com/cnlohr/ch32fun)
