@@ -16,7 +16,7 @@ This is a chinese 32-bit RISC-V core @48 MHz microcontroller ([Official datashee
 - Security features: 96-bit unique ID
 - Debug mode: 1-wire serial debug interface (SDI)
 
-The test board (TENSTAR CH32V003) use the model CH32V003F4P6 version:
+The test board (TENSTAR CH32V003) uses the model CH32V003F4P6 version:
 
 ![block diagram](images/block-diagram.jpg)
 
