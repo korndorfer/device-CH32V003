@@ -1,7 +1,7 @@
 # CH32V003 Microcontroller
 Notes about the CH32V003 device.
 
-This is a chinese 32-bit RISC-V core @48 MHz microcontroller ([Official datasheet](doc/CH32V003DS0.PDF)). Some functionality is common for all versions of this chip, like:
+This is a chinese 32-bit RISC-V core @48 MHz microcontroller. Some functionality is common for all versions of this chip, like:
 
 - Support system main frequency 48MHz
 - System power supply VDD: 3.3V or 5V
@@ -31,4 +31,6 @@ Board view:
 Some usefull links:
 - [Official site](https://www.wch-ic.com/products/CH32V003.html)
 - [Official repository](https://github.com/openwch/ch32v003)
+- [Datasheet](doc/CH32V003DS0.PDF)
+- [Reference manual](doc/CH32V003RM.PDF)
 - [ch32fun toolchain](https://github.com/cnlohr/ch32fun)
